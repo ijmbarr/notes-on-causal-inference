@@ -5,6 +5,7 @@ When learning about new things, I find it helps to write explicit notes on what 
 These notebooks are for the following blog posts:
  - http://www.degeneratestate.org/posts/2018/Mar/24/causal-inference-with-python-part-1-potential-outcomes/
  - http://www.degeneratestate.org/posts/2018/Jul/10/causal-inference-with-python-part-2-causal-graphical-models/
+ - http://www.degeneratestate.org/posts/2018/Sep/03/causal-inference-with-python-part-3-frontdoor-adjustment/
 
 ## References
  - http://laurence-wong.com/software/
